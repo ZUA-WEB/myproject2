@@ -1,0 +1,40 @@
+table,th{
+    border: 1px solid;
+    width:80%;
+    height: 50px;
+    text-align: left;
+    padding: 7px;
+    
+    
+
+}
+tr,th,td{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    
+    padding: 7px;
+}
+table{
+    border-collapse: collapse;
+}
+.t1{
+    text-align: right;
+}
+.t2{
+    border-right-color:white;
+}
+
+.t3{
+    border-bottom-color:white;
+    
+}
+.t4{
+    border-bottom-color:white;
+}
+.t5{
+    border-bottom-color:white;
+}
+.t6{
+    border-bottom-color:white;
+}
